@@ -8,7 +8,7 @@
 
   
 
-> **TL;DR:** A novel representaion and learning paradigm for dynamic radiance fields reconstruction -- 100x faster, no loss in dynamic novel view synthesis quality.
+> **TL;DR:** A novel representation and learning paradigm for dynamic radiance fields reconstruction -- 100x faster, no loss in dynamic novel view synthesis quality.
 
   
 
@@ -116,6 +116,7 @@ Stage 2: Train the dynamic model using dynamic scene data and the trained static
 
 ```bash
 
+$ cd ..
 $ python run.py --config configs/inward-facing/lego.py --render_test
 
 ```
