@@ -212,4 +212,4 @@ This codebase is based on [DirectVoxGO](https://github.com/sunset1995/DirectVoxG
 
   
 
-MIT
+GPL
